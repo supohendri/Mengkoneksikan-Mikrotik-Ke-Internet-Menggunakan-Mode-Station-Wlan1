@@ -1,0 +1,1 @@
+# Mengkoneksikan-Mikrotik-Ke-Internet-Menggunakan-Mode-Station-Wlan1
